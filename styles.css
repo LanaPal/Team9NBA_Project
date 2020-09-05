@@ -1,0 +1,62 @@
+/* Add your styles here */
+.navbar {
+    background: aliceblue;
+}
+
+.navbar li {
+    display: inline-block;
+    background-color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 3px;
+}
+
+.navbar li a {
+    color: #17a2b8;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.header {
+    color: #fff;
+    background-color: #17a2b8;
+    padding: 35px;
+    border-color: #17a2b8;
+}
+
+h1 {
+    color: #fff;
+    background-color: #17a2b8;
+    padding: 35px;
+    border-color: #17a2b8;
+    font-size: 40px;
+    margin-left: 1.3cm;
+}
+
+h2 {color:  #17a2b8;
+    font-size: 30px;
+    font-weight: 100;
+    }
+
+h3 {color: black;
+    font-size: 25px;
+    font-weight: 100;
+    }
+
+body {
+background-color: #F0FFFF;
+}
+
+.post {
+    margin-right: 20px;
+}
+
+.btn-light {
+    color: #17a2b8;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.card {
+    margin-left: 2cm;
+}
