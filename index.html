@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Landing Page</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<!-- navbar-->
+<nav class="navbar">
+  <header class "header">
+    <div class="col">
+      <h1>Latitude</h1>
+    </div>
+  </header>
+
+  <ul class="nav justify-content-end">
+    <li class="nav-item dropdown">
+      <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Plots
+      </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a class="dropdown-item" href="https://lanapal.github.io/VizMaxTemp/#">Max Temperature</a>
+          <a class="dropdown-item" href="https://lanapal.github.io/VizHumidity/">Humidity</a>
+          <a class="dropdown-item" href="https://lanapal.github.io/VizCloudiness/">Cloudiness</a>
+          <a class="dropdown-item" href="https://lanapal.github.io/VizWindSpeed/">Wind Speed</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://lanapal.github.io/VizComparison/">Comparison</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://lanapal.github.io/VizData/">Data</a>
+      </li>
+    </ul>
+  </nav>
+<!-- end of navbar-->
+
+<!--cards-->
+<div class="row">
+  <div class="col-sm-6">
+    
+    <div class="card mb-3" style="width: 45rem;">
+      <div class="row no-gutters">
+        <div class="col-md-4">
+          <img style="width: 17rem; margin-top: 1.7cm;" src="https://github.com/LanaPal/Web-Design-Challenge/blob/master/Resources/MaxTemperature.png?raw=true" class="card-img" alt="Max Temperature">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+          <h2 class="card-title"><strong>Latitude vs. Other Dimensions</strong></h2>
+          <p class="card-text">The purpose of this project was to analyze how weather changes as you get closer to the equator. To accomplish this analysis, we pulled the data from the OpenWeatherMap API to assemble a dataset on over 500 cities</p>
+          <p class="card_text">After assempling the dataset, we used Matplotlib to plot varous aspects of the weather vs. latitude.
+          Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualizations created as part of the analysis,
+          as well as explanations and descriptions of any trends and correlations witnessed.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body">
+        <h2 class="card-title"><strong>Visualizations</strong></h2>
+          <div class="card-columns">
+            <div class="card">
+              <a href="https://lanapal.github.io/VizMaxTemp/#">
+                <img src="https://github.com/LanaPal/Web-Design-Challenge/blob/master/Resources/MaxTemperature.png?raw=true" class="card-img" alt="Max Temperature">
+              </a>
+            </div>
+          
+            <div class="card">
+              <a href="https://lanapal.github.io/VizHumidity/">
+                <img src="https://github.com/LanaPal/Web-Design-Challenge/blob/master/Resources/Humidity.png?raw=true" class="card-img" alt="Humidity">
+              </a>
+            </div>
+          </div>
+          
+          <div class="card-columns">
+            <div class="card">
+              <a href="https://lanapal.github.io/VizCloudiness/">
+                <img src="https://github.com/LanaPal/Web-Design-Challenge/blob/master/Resources/Cloudiness.png?raw=true" class="card-img" alt="Cloudiness">
+              </a>
+            </div>
+          
+            <div class="card">
+              <a href="https://lanapal.github.io/VizWindSpeed/">
+                <img src="https://github.com/LanaPal/Web-Design-Challenge/blob/master/Resources/WindSpeed.png?raw=true" class="card-img" alt="Wind Speed">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
