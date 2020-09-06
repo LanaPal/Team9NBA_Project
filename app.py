@@ -1,15 +1,11 @@
 from flask import Flask, jsonify
-from fetch_from_db import fetch_arenas, fetch_attendance, fetch_stats, fetch_twitter
+from pymongo import MongoClient
+from fetch_from_db import fetch_arenas  , fetch_attendance, fetch_stats, fetch_twitter
+import json
 
-
-#################################################
-# Flask Setup
-#################################################
 app = Flask(__name__)
-
-#################################################
-# Flask Routes
-#################################################
+client = MongoClient('mongodb://localhost:27017')
+db = client.nba_db
 
 
 # @app.route("/")
@@ -26,30 +22,33 @@ app = Flask(__name__)
 
 @app.route("/stats")
 def get_stats():
-    stats = fetch_stats()
-    return {"stats_list": stats}
+    # s = json.dumps(fetch_stats())
+    stats = {"stats_list": fetch_stats(db)}
+    # resp = js
+    # print(s)
+    return stats
 
 
 @app.route("/arenas")
 def get_arenas():
-    arenas = fetch_arenas()
+    arenas = {"arenas_list": fetch_arenas(db)}
     # return jsonify(arenas)
-    return {"arenas_list": arenas}
+    return arenas
 
 
 @app.route("/tweets")
 def get_tweets():
-    tweets = fetch_twitter()
+    tweets = {"tweets_list": fetch_twitter(db)}
     # return jsonify(tweets)
-    return {"tweets_list": tweets}
+    return tweets
 
 
 
 @app.route("/attendance")
 def get_attendance():
-    attendance = fetch_attendance()
+    attendance = {"attendance_list": fetch_attendance(db)}
     # return jsonify(attendance)
-    return {"attendance_list": attendance}
+    return attendance
 
 
 
