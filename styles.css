@@ -1,41 +1,51 @@
 /* Add your styles here */
 .navbar {
-    background: aliceblue;
+    background: #1D428A;
 }
 
 .navbar li {
     display: inline-block;
-    background-color: aliceblue;
-    padding: 20px;
-    margin: 20px;
+    background-color: #1D428A;
+    padding: 10px;
+    margin: 10px;
     border-radius: 3px;
 }
+.nav_container {
+    position: absolute;
+    left: 0px;
+    margin-top: 0cm; 
+    margin-left: 2cm
+  }
 
 .navbar li a {
-    color: #17a2b8;
-    text-decoration: none;
+    color: #1D428A;
+    font-size: 15.2px;
+    font: Helvetica;
     background-color: transparent;
 }
 
 .header {
-    color: #fff;
-    background-color: #17a2b8;
-    padding: 35px;
-    border-color: #17a2b8;
+    background-color: #1D428A;
+    padding: 10px;
+    border-color: #1D428A;
 }
 
 h1 {
     color: #fff;
-    background-color: #17a2b8;
-    padding: 35px;
-    border-color: #17a2b8;
-    font-size: 40px;
-    margin-left: 1.3cm;
+    background-color: #1D428A;
+    border-color: #1D428A;
+    font-size: 45px;
+    margin-left: 4cm;
 }
 
-h2 {color:  #17a2b8;
-    font-size: 30px;
-    font-weight: 100;
+h4 {color:  #fff;
+    font-size: 25px;
+    font-weight: bold;
+    }
+
+h2 {color: orangered;
+    font-size: 35px;
+    font-weight: bold;
     }
 
 h3 {color: black;
@@ -52,11 +62,20 @@ background-color: #F0FFFF;
 }
 
 .btn-light {
-    color: #17a2b8;
+    color: orange;
     text-decoration: none;
-    background-color: transparent;
+    background-color: #1D428A;
+    width: 3cm;
+    height: 1.2cm;
+    border-block-color: #1D428A;
+
 }
 
 .card {
     margin-left: 2cm;
 }
+
+.card-header {
+    text-align: center    
+}
+
