@@ -4,20 +4,24 @@ from fetch_from_db import fetch_arenas  , fetch_attendance, fetch_stats, fetch_t
 import json
 
 app = Flask(__name__)
-client = MongoClient('mongodb://localhost:27017')
+# client = MongoClient('mongodb://localhost:27017')
+# connection = f'mongodb+srv://{credentials.user}:{credentials.password}@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
+connection = f'mongodb+srv://team9_nba_db:team9_nba_db@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
+# client = f'mongodb+srv://{credentials.user}:{credentials.password}@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
+client = MongoClient(connection)
 db = client.nba_db
 
 
-# @app.route("/")
-# def welcome():
-#     """List all available api routes."""
-#     return (
-#         f"Available Routes:<br/>"
-#         f"/stats<br/>"
-#         f"/arenas<br/>"
-#         f"/tweets<br/>"
-#         f"/attendance"
-#     )
+@app.route("/")
+def welcome():
+    """List all available api routes."""
+    return (
+        f"Available Routes:<br/>"
+        f"/stats<br/>"
+        f"/arenas<br/>"
+        f"/tweets<br/>"
+        f"/attendance"
+    )
 
 
 @app.route("/stats")
