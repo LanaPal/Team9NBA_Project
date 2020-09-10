@@ -1,8 +1,12 @@
 from pymongo import MongoClient
+from secret import credentials
 # make connection and return db
 
 def get_db():
-    client = MongoClient('mongodb://localhost:27017')
+    # client = MongoClient('mongodb://localhost:27017')
+    connection = f'mongodb+srv://team9_nba_db:team9_nba_db@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
+    # client = f'mongodb+srv://{credentials.user}:{credentials.password}@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
+    client = MongoClient(connection)
     return client.nba_db
 
 def remove_id(dictionaries):
