@@ -1,0 +1,1960 @@
+{
+    "tweets_list": [
+    {
+    "PLAYER": "Russell Westbrook",
+    "TWITTER_FAVORITE_COUNT": 2130.5,
+    "TWITTER_RETWEET_COUNT": 559,
+    "index": 0
+    },
+    {
+    "PLAYER": "James Harden",
+    "TWITTER_FAVORITE_COUNT": 969,
+    "TWITTER_RETWEET_COUNT": 321.5,
+    "index": 1
+    },
+    {
+    "PLAYER": "Isaiah Thomas",
+    "TWITTER_FAVORITE_COUNT": 467.5,
+    "TWITTER_RETWEET_COUNT": 155.5,
+    "index": 2
+    },
+    {
+    "PLAYER": "Anthony Davis",
+    "TWITTER_FAVORITE_COUNT": 368,
+    "TWITTER_RETWEET_COUNT": 104,
+    "index": 3
+    },
+    {
+    "PLAYER": "DeMar DeRozan",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 186,
+    "index": 4
+    },
+    {
+    "PLAYER": "DeMarcus Cousins",
+    "TWITTER_FAVORITE_COUNT": 102,
+    "TWITTER_RETWEET_COUNT": 91.5,
+    "index": 5
+    },
+    {
+    "PLAYER": "Damian Lillard",
+    "TWITTER_FAVORITE_COUNT": 186.5,
+    "TWITTER_RETWEET_COUNT": 43,
+    "index": 6
+    },
+    {
+    "PLAYER": "LeBron James",
+    "TWITTER_FAVORITE_COUNT": 5533.5,
+    "TWITTER_RETWEET_COUNT": 1501.5,
+    "index": 7
+    },
+    {
+    "PLAYER": "Kawhi Leonard",
+    "TWITTER_FAVORITE_COUNT": 2701.5,
+    "TWITTER_RETWEET_COUNT": 716.5,
+    "index": 8
+    },
+    {
+    "PLAYER": "Stephen Curry",
+    "TWITTER_FAVORITE_COUNT": 12278,
+    "TWITTER_RETWEET_COUNT": 2893,
+    "index": 9
+    },
+    {
+    "PLAYER": "Kyrie Irving",
+    "TWITTER_FAVORITE_COUNT": 1541,
+    "TWITTER_RETWEET_COUNT": 695,
+    "index": 10
+    },
+    {
+    "PLAYER": "Kevin Durant",
+    "TWITTER_FAVORITE_COUNT": 1425.5,
+    "TWITTER_RETWEET_COUNT": 366,
+    "index": 11
+    },
+    {
+    "PLAYER": "Karl-Anthony Towns",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 105,
+    "index": 12
+    },
+    {
+    "PLAYER": "Jimmy Butler",
+    "TWITTER_FAVORITE_COUNT": 89.5,
+    "TWITTER_RETWEET_COUNT": 30,
+    "index": 13
+    },
+    {
+    "PLAYER": "Paul George",
+    "TWITTER_FAVORITE_COUNT": 228.5,
+    "TWITTER_RETWEET_COUNT": 128,
+    "index": 14
+    },
+    {
+    "PLAYER": "Andrew Wiggins",
+    "TWITTER_FAVORITE_COUNT": 182,
+    "TWITTER_RETWEET_COUNT": 54.5,
+    "index": 15
+    },
+    {
+    "PLAYER": "Kemba Walker",
+    "TWITTER_FAVORITE_COUNT": 59.5,
+    "TWITTER_RETWEET_COUNT": 32.5,
+    "index": 16
+    },
+    {
+    "PLAYER": "Bradley Beal",
+    "TWITTER_FAVORITE_COUNT": 55.5,
+    "TWITTER_RETWEET_COUNT": 40.5,
+    "index": 17
+    },
+    {
+    "PLAYER": "John Wall",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 77,
+    "index": 18
+    },
+    {
+    "PLAYER": "C.J. McCollum",
+    "TWITTER_FAVORITE_COUNT": 126,
+    "TWITTER_RETWEET_COUNT": 33,
+    "index": 19
+    },
+    {
+    "PLAYER": "Carmelo Anthony",
+    "TWITTER_FAVORITE_COUNT": 720.5,
+    "TWITTER_RETWEET_COUNT": 220,
+    "index": 20
+    },
+    {
+    "PLAYER": "Kyle Lowry",
+    "TWITTER_FAVORITE_COUNT": 561,
+    "TWITTER_RETWEET_COUNT": 162,
+    "index": 21
+    },
+    {
+    "PLAYER": "Klay Thompson",
+    "TWITTER_FAVORITE_COUNT": 797,
+    "TWITTER_RETWEET_COUNT": 225,
+    "index": 22
+    },
+    {
+    "PLAYER": "Devin Booker",
+    "TWITTER_FAVORITE_COUNT": 1170.5,
+    "TWITTER_RETWEET_COUNT": 335.5,
+    "index": 23
+    },
+    {
+    "PLAYER": "Gordon Hayward",
+    "TWITTER_FAVORITE_COUNT": 319,
+    "TWITTER_RETWEET_COUNT": 50.5,
+    "index": 24
+    },
+    {
+    "PLAYER": "Blake Griffin",
+    "TWITTER_FAVORITE_COUNT": 269,
+    "TWITTER_RETWEET_COUNT": 98.5,
+    "index": 25
+    },
+    {
+    "PLAYER": "Eric Bledsoe",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 30.5,
+    "index": 26
+    },
+    {
+    "PLAYER": "Mike Conley",
+    "TWITTER_FAVORITE_COUNT": 257.5,
+    "TWITTER_RETWEET_COUNT": 90,
+    "index": 27
+    },
+    {
+    "PLAYER": "Goran Dragic",
+    "TWITTER_FAVORITE_COUNT": 62.5,
+    "TWITTER_RETWEET_COUNT": 45,
+    "index": 28
+    },
+    {
+    "PLAYER": "Joel Embiid",
+    "TWITTER_FAVORITE_COUNT": 6852.5,
+    "TWITTER_RETWEET_COUNT": 2941,
+    "index": 29
+    },
+    {
+    "PLAYER": "Jabari Parker",
+    "TWITTER_FAVORITE_COUNT": 267,
+    "TWITTER_RETWEET_COUNT": 125,
+    "index": 30
+    },
+    {
+    "PLAYER": "Marc Gasol",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 75.5,
+    "index": 31
+    },
+    {
+    "PLAYER": "Harrison Barnes",
+    "TWITTER_FAVORITE_COUNT": 88.5,
+    "TWITTER_RETWEET_COUNT": 28.5,
+    "index": 32
+    },
+    {
+    "PLAYER": "Kevin Love",
+    "TWITTER_FAVORITE_COUNT": 866.5,
+    "TWITTER_RETWEET_COUNT": 194.5,
+    "index": 33
+    },
+    {
+    "PLAYER": "Zach LaVine",
+    "TWITTER_FAVORITE_COUNT": 178.5,
+    "TWITTER_RETWEET_COUNT": 67,
+    "index": 34
+    },
+    {
+    "PLAYER": "Dwyane Wade",
+    "TWITTER_FAVORITE_COUNT": 349.5,
+    "TWITTER_RETWEET_COUNT": 149.5,
+    "index": 35
+    },
+    {
+    "PLAYER": "Danilo Gallinari",
+    "TWITTER_FAVORITE_COUNT": 29,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 36
+    },
+    {
+    "PLAYER": "Paul Millsap",
+    "TWITTER_FAVORITE_COUNT": 60,
+    "TWITTER_RETWEET_COUNT": 32,
+    "index": 37
+    },
+    {
+    "PLAYER": "Chris Paul",
+    "TWITTER_FAVORITE_COUNT": 829,
+    "TWITTER_RETWEET_COUNT": 178.5,
+    "index": 38
+    },
+    {
+    "PLAYER": "Kristaps Porzingis",
+    "TWITTER_FAVORITE_COUNT": 485,
+    "TWITTER_RETWEET_COUNT": 214,
+    "index": 39
+    },
+    {
+    "PLAYER": "Derrick Rose",
+    "TWITTER_FAVORITE_COUNT": 1864,
+    "TWITTER_RETWEET_COUNT": 2504.5,
+    "index": 40
+    },
+    {
+    "PLAYER": "Dennis Schroder",
+    "TWITTER_FAVORITE_COUNT": 51.5,
+    "TWITTER_RETWEET_COUNT": 20,
+    "index": 41
+    },
+    {
+    "PLAYER": "Lou Williams",
+    "TWITTER_FAVORITE_COUNT": 26.5,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 42
+    },
+    {
+    "PLAYER": "LaMarcus Aldridge",
+    "TWITTER_FAVORITE_COUNT": 195,
+    "TWITTER_RETWEET_COUNT": 63,
+    "index": 43
+    },
+    {
+    "PLAYER": "Evan Fournier",
+    "TWITTER_FAVORITE_COUNT": 21,
+    "TWITTER_RETWEET_COUNT": 10,
+    "index": 44
+    },
+    {
+    "PLAYER": "Hassan Whiteside",
+    "TWITTER_FAVORITE_COUNT": 194,
+    "TWITTER_RETWEET_COUNT": 155,
+    "index": 45
+    },
+    {
+    "PLAYER": "George Hill",
+    "TWITTER_FAVORITE_COUNT": 33.5,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 46
+    },
+    {
+    "PLAYER": "Nikola Jokic",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 47
+    },
+    {
+    "PLAYER": "Eric Gordon",
+    "TWITTER_FAVORITE_COUNT": 55,
+    "TWITTER_RETWEET_COUNT": 26,
+    "index": 48
+    },
+    {
+    "PLAYER": "Tobias Harris",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 49
+    },
+    {
+    "PLAYER": "Victor Oladipo",
+    "TWITTER_FAVORITE_COUNT": 78,
+    "TWITTER_RETWEET_COUNT": 28,
+    "index": 50
+    },
+    {
+    "PLAYER": "Dion Waiters",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 51
+    },
+    {
+    "PLAYER": "Wilson Chandler",
+    "TWITTER_FAVORITE_COUNT": 31.5,
+    "TWITTER_RETWEET_COUNT": 18.5,
+    "index": 52
+    },
+    {
+    "PLAYER": "D'Angelo Russell",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 232,
+    "index": 53
+    },
+    {
+    "PLAYER": "Jrue Holiday",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 39,
+    "index": 54
+    },
+    {
+    "PLAYER": "Jeff Teague",
+    "TWITTER_FAVORITE_COUNT": 17.5,
+    "TWITTER_RETWEET_COUNT": 13.5,
+    "index": 55
+    },
+    {
+    "PLAYER": "Nicolas Batum",
+    "TWITTER_FAVORITE_COUNT": 114.5,
+    "TWITTER_RETWEET_COUNT": 66,
+    "index": 56
+    },
+    {
+    "PLAYER": "J.J. Redick",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 57
+    },
+    {
+    "PLAYER": "Gary Harris",
+    "TWITTER_FAVORITE_COUNT": 6,
+    "TWITTER_RETWEET_COUNT": 2.5,
+    "index": 58
+    },
+    {
+    "PLAYER": "Jordan Clarkson",
+    "TWITTER_FAVORITE_COUNT": 55.5,
+    "TWITTER_RETWEET_COUNT": 179.5,
+    "index": 59
+    },
+    {
+    "PLAYER": "Khris Middleton",
+    "TWITTER_FAVORITE_COUNT": 16,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 60
+    },
+    {
+    "PLAYER": "Nikola Vucevic",
+    "TWITTER_FAVORITE_COUNT": 5.5,
+    "TWITTER_RETWEET_COUNT": 35.5,
+    "index": 61
+    },
+    {
+    "PLAYER": "Tim Hardaway",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 0,
+    "index": 62
+    },
+    {
+    "PLAYER": "Reggie Jackson",
+    "TWITTER_FAVORITE_COUNT": 37,
+    "TWITTER_RETWEET_COUNT": 9.5,
+    "index": 63
+    },
+    {
+    "PLAYER": "Jeremy Lin",
+    "TWITTER_FAVORITE_COUNT": 936.5,
+    "TWITTER_RETWEET_COUNT": 197.5,
+    "index": 64
+    },
+    {
+    "PLAYER": "Myles Turner",
+    "TWITTER_FAVORITE_COUNT": 53,
+    "TWITTER_RETWEET_COUNT": 31,
+    "index": 65
+    },
+    {
+    "PLAYER": "T.J. Warren",
+    "TWITTER_FAVORITE_COUNT": 55.5,
+    "TWITTER_RETWEET_COUNT": 27,
+    "index": 66
+    },
+    {
+    "PLAYER": "Enes Kanter",
+    "TWITTER_FAVORITE_COUNT": 147,
+    "TWITTER_RETWEET_COUNT": 195,
+    "index": 67
+    },
+    {
+    "PLAYER": "Dirk Nowitzki",
+    "TWITTER_FAVORITE_COUNT": 1564,
+    "TWITTER_RETWEET_COUNT": 500.5,
+    "index": 68
+    },
+    {
+    "PLAYER": "Jordan Crawford",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 69
+    },
+    {
+    "PLAYER": "Zach Randolph",
+    "TWITTER_FAVORITE_COUNT": 47,
+    "TWITTER_RETWEET_COUNT": 18.5,
+    "index": 70
+    },
+    {
+    "PLAYER": "Rudy Gobert",
+    "TWITTER_FAVORITE_COUNT": 731,
+    "TWITTER_RETWEET_COUNT": 225.5,
+    "index": 71
+    },
+    {
+    "PLAYER": "Al Horford",
+    "TWITTER_FAVORITE_COUNT": 136,
+    "TWITTER_RETWEET_COUNT": 71,
+    "index": 72
+    },
+    {
+    "PLAYER": "Marcus Morris",
+    "TWITTER_FAVORITE_COUNT": 6,
+    "TWITTER_RETWEET_COUNT": 23,
+    "index": 73
+    },
+    {
+    "PLAYER": "Markieff Morris",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 18,
+    "index": 74
+    },
+    {
+    "PLAYER": "Jae Crowder",
+    "TWITTER_FAVORITE_COUNT": 55,
+    "TWITTER_RETWEET_COUNT": 47,
+    "index": 75
+    },
+    {
+    "PLAYER": "Kentavious Caldwell-Pope",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 10,
+    "index": 76
+    },
+    {
+    "PLAYER": "Will Barton",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 77
+    },
+    {
+    "PLAYER": "Tyler Johnson",
+    "TWITTER_FAVORITE_COUNT": 3,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 78
+    },
+    {
+    "PLAYER": "Andre Drummond",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 25,
+    "index": 79
+    },
+    {
+    "PLAYER": "Dwight Howard",
+    "TWITTER_FAVORITE_COUNT": 7,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 80
+    },
+    {
+    "PLAYER": "Darren Collison",
+    "TWITTER_FAVORITE_COUNT": 4,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 81
+    },
+    {
+    "PLAYER": "Julius Randle",
+    "TWITTER_FAVORITE_COUNT": 102,
+    "TWITTER_RETWEET_COUNT": 59,
+    "index": 82
+    },
+    {
+    "PLAYER": "Nick Young",
+    "TWITTER_FAVORITE_COUNT": 45.5,
+    "TWITTER_RETWEET_COUNT": 14,
+    "index": 83
+    },
+    {
+    "PLAYER": "Robert Covington",
+    "TWITTER_FAVORITE_COUNT": 38,
+    "TWITTER_RETWEET_COUNT": 15,
+    "index": 84
+    },
+    {
+    "PLAYER": "Seth Curry",
+    "TWITTER_FAVORITE_COUNT": 30.5,
+    "TWITTER_RETWEET_COUNT": 35,
+    "index": 85
+    },
+    {
+    "PLAYER": "James Johnson",
+    "TWITTER_FAVORITE_COUNT": 13,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 86
+    },
+    {
+    "PLAYER": "Elfrid Payton",
+    "TWITTER_FAVORITE_COUNT": 19,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 87
+    },
+    {
+    "PLAYER": "Aaron Gordon",
+    "TWITTER_FAVORITE_COUNT": 42.5,
+    "TWITTER_RETWEET_COUNT": 16,
+    "index": 88
+    },
+    {
+    "PLAYER": "DeAndre Jordan",
+    "TWITTER_FAVORITE_COUNT": 189.5,
+    "TWITTER_RETWEET_COUNT": 27,
+    "index": 89
+    },
+    {
+    "PLAYER": "Clint Capela",
+    "TWITTER_FAVORITE_COUNT": 120,
+    "TWITTER_RETWEET_COUNT": 45.5,
+    "index": 90
+    },
+    {
+    "PLAYER": "Pau Gasol",
+    "TWITTER_FAVORITE_COUNT": 882.5,
+    "TWITTER_RETWEET_COUNT": 148.5,
+    "index": 91
+    },
+    {
+    "PLAYER": "Jamal Crawford",
+    "TWITTER_FAVORITE_COUNT": 49,
+    "TWITTER_RETWEET_COUNT": 32,
+    "index": 92
+    },
+    {
+    "PLAYER": "Austin Rivers",
+    "TWITTER_FAVORITE_COUNT": 75.5,
+    "TWITTER_RETWEET_COUNT": 23,
+    "index": 93
+    },
+    {
+    "PLAYER": "Jonas Valanciunas",
+    "TWITTER_FAVORITE_COUNT": 65,
+    "TWITTER_RETWEET_COUNT": 40,
+    "index": 94
+    },
+    {
+    "PLAYER": "Trevor Ariza",
+    "TWITTER_FAVORITE_COUNT": 10,
+    "TWITTER_RETWEET_COUNT": 15,
+    "index": 95
+    },
+    {
+    "PLAYER": "Frank Kaminsky",
+    "TWITTER_FAVORITE_COUNT": 112.5,
+    "TWITTER_RETWEET_COUNT": 29,
+    "index": 96
+    },
+    {
+    "PLAYER": "Greg Monroe",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 97
+    },
+    {
+    "PLAYER": "Steven Adams",
+    "TWITTER_FAVORITE_COUNT": 36,
+    "TWITTER_RETWEET_COUNT": 99,
+    "index": 98
+    },
+    {
+    "PLAYER": "Ricky Rubio",
+    "TWITTER_FAVORITE_COUNT": 262.5,
+    "TWITTER_RETWEET_COUNT": 76,
+    "index": 99
+    },
+    {
+    "PLAYER": "Jerryd Bayless",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 100
+    },
+    {
+    "PLAYER": "Emmanuel Mudiay",
+    "TWITTER_FAVORITE_COUNT": 69,
+    "TWITTER_RETWEET_COUNT": 21,
+    "index": 101
+    },
+    {
+    "PLAYER": "Terrence Ross",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 0,
+    "index": 102
+    },
+    {
+    "PLAYER": "Deron Williams",
+    "TWITTER_FAVORITE_COUNT": 36,
+    "TWITTER_RETWEET_COUNT": 19,
+    "index": 103
+    },
+    {
+    "PLAYER": "Thaddeus Young",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 1.5,
+    "index": 104
+    },
+    {
+    "PLAYER": "J.J. Barea",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 17.5,
+    "index": 105
+    },
+    {
+    "PLAYER": "Justise Winslow",
+    "TWITTER_FAVORITE_COUNT": 88.5,
+    "TWITTER_RETWEET_COUNT": 33.5,
+    "index": 106
+    },
+    {
+    "PLAYER": "Taj Gibson",
+    "TWITTER_FAVORITE_COUNT": 52,
+    "TWITTER_RETWEET_COUNT": 17,
+    "index": 107
+    },
+    {
+    "PLAYER": "Marcin Gortat",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 108
+    },
+    {
+    "PLAYER": "Terrence Jones",
+    "TWITTER_FAVORITE_COUNT": 42,
+    "TWITTER_RETWEET_COUNT": 18.5,
+    "index": 109
+    },
+    {
+    "PLAYER": "Courtney Lee",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 110
+    },
+    {
+    "PLAYER": "Allen Crabbe",
+    "TWITTER_FAVORITE_COUNT": 11.5,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 111
+    },
+    {
+    "PLAYER": "C.J. Miles",
+    "TWITTER_FAVORITE_COUNT": 11,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 112
+    },
+    {
+    "PLAYER": "Buddy Hield",
+    "TWITTER_FAVORITE_COUNT": 512,
+    "TWITTER_RETWEET_COUNT": 333,
+    "index": 113
+    },
+    {
+    "PLAYER": "Nikola Mirotic",
+    "TWITTER_FAVORITE_COUNT": 119,
+    "TWITTER_RETWEET_COUNT": 50.5,
+    "index": 114
+    },
+    {
+    "PLAYER": "Marcus Smart",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 115
+    },
+    {
+    "PLAYER": "Marco Belinelli",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 15,
+    "index": 116
+    },
+    {
+    "PLAYER": "Wayne Ellington",
+    "TWITTER_FAVORITE_COUNT": 18,
+    "TWITTER_RETWEET_COUNT": 12,
+    "index": 117
+    },
+    {
+    "PLAYER": "Tyreke Evans",
+    "TWITTER_FAVORITE_COUNT": 6,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 118
+    },
+    {
+    "PLAYER": "Cody Zeller",
+    "TWITTER_FAVORITE_COUNT": 90,
+    "TWITTER_RETWEET_COUNT": 29,
+    "index": 119
+    },
+    {
+    "PLAYER": "Draymond Green",
+    "TWITTER_FAVORITE_COUNT": 627,
+    "TWITTER_RETWEET_COUNT": 168.5,
+    "index": 120
+    },
+    {
+    "PLAYER": "Jusuf Nurkic",
+    "TWITTER_FAVORITE_COUNT": 45,
+    "TWITTER_RETWEET_COUNT": 43.5,
+    "index": 121
+    },
+    {
+    "PLAYER": "Josh Richardson",
+    "TWITTER_FAVORITE_COUNT": 42,
+    "TWITTER_RETWEET_COUNT": 10,
+    "index": 122
+    },
+    {
+    "PLAYER": "Kyle Korver",
+    "TWITTER_FAVORITE_COUNT": 107.5,
+    "TWITTER_RETWEET_COUNT": 30.5,
+    "index": 123
+    },
+    {
+    "PLAYER": "Trevor Booker",
+    "TWITTER_FAVORITE_COUNT": 16.5,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 124
+    },
+    {
+    "PLAYER": "Yogi Ferrell",
+    "TWITTER_FAVORITE_COUNT": 37.5,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 125
+    },
+    {
+    "PLAYER": "Maurice Harkless",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 14.5,
+    "index": 126
+    },
+    {
+    "PLAYER": "Ty Lawson",
+    "TWITTER_FAVORITE_COUNT": 75.5,
+    "TWITTER_RETWEET_COUNT": 27,
+    "index": 127
+    },
+    {
+    "PLAYER": "Jamal Murray",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 62.5,
+    "index": 128
+    },
+    {
+    "PLAYER": "Richaun Holmes",
+    "TWITTER_FAVORITE_COUNT": 25,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 129
+    },
+    {
+    "PLAYER": "Kenneth Faried",
+    "TWITTER_FAVORITE_COUNT": 14,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 130
+    },
+    {
+    "PLAYER": "E'Twaun Moore",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 10,
+    "index": 131
+    },
+    {
+    "PLAYER": "Patrick Beverley",
+    "TWITTER_FAVORITE_COUNT": 214.5,
+    "TWITTER_RETWEET_COUNT": 51,
+    "index": 132
+    },
+    {
+    "PLAYER": "Derrick Favors",
+    "TWITTER_FAVORITE_COUNT": 25,
+    "TWITTER_RETWEET_COUNT": 6.5,
+    "index": 133
+    },
+    {
+    "PLAYER": "Patty Mills",
+    "TWITTER_FAVORITE_COUNT": 112,
+    "TWITTER_RETWEET_COUNT": 19,
+    "index": 134
+    },
+    {
+    "PLAYER": "Nik Stauskas",
+    "TWITTER_FAVORITE_COUNT": 28,
+    "TWITTER_RETWEET_COUNT": 11,
+    "index": 135
+    },
+    {
+    "PLAYER": "Michael Beasley",
+    "TWITTER_FAVORITE_COUNT": 8,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 136
+    },
+    {
+    "PLAYER": "Brandon Ingram",
+    "TWITTER_FAVORITE_COUNT": 194,
+    "TWITTER_RETWEET_COUNT": 100,
+    "index": 137
+    },
+    {
+    "PLAYER": "Cory Joseph",
+    "TWITTER_FAVORITE_COUNT": 48.5,
+    "TWITTER_RETWEET_COUNT": 15,
+    "index": 138
+    },
+    {
+    "PLAYER": "Marquese Chriss",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 22,
+    "index": 139
+    },
+    {
+    "PLAYER": "Jeff Green",
+    "TWITTER_FAVORITE_COUNT": 57.5,
+    "TWITTER_RETWEET_COUNT": 28.5,
+    "index": 140
+    },
+    {
+    "PLAYER": "Gerald Henderson",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 141
+    },
+    {
+    "PLAYER": "Michael Kidd-Gilchrist",
+    "TWITTER_FAVORITE_COUNT": 29,
+    "TWITTER_RETWEET_COUNT": 11,
+    "index": 142
+    },
+    {
+    "PLAYER": "Jameer Nelson",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 143
+    },
+    {
+    "PLAYER": "Tony Allen",
+    "TWITTER_FAVORITE_COUNT": 10.5,
+    "TWITTER_RETWEET_COUNT": 11,
+    "index": 144
+    },
+    {
+    "PLAYER": "Channing Frye",
+    "TWITTER_FAVORITE_COUNT": 8,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 145
+    },
+    {
+    "PLAYER": "Montrezl Harrell",
+    "TWITTER_FAVORITE_COUNT": 11,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 146
+    },
+    {
+    "PLAYER": "Nene Hilario",
+    "TWITTER_FAVORITE_COUNT": 22,
+    "TWITTER_RETWEET_COUNT": 16.5,
+    "index": 147
+    },
+    {
+    "PLAYER": "Jodie Meeks",
+    "TWITTER_FAVORITE_COUNT": 36.5,
+    "TWITTER_RETWEET_COUNT": 15,
+    "index": 148
+    },
+    {
+    "PLAYER": "Dahntay Jones",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 99.5,
+    "index": 149
+    },
+    {
+    "PLAYER": "Kelly Olynyk",
+    "TWITTER_FAVORITE_COUNT": 56.5,
+    "TWITTER_RETWEET_COUNT": 16,
+    "index": 150
+    },
+    {
+    "PLAYER": "Evan Turner",
+    "TWITTER_FAVORITE_COUNT": 17,
+    "TWITTER_RETWEET_COUNT": 13,
+    "index": 151
+    },
+    {
+    "PLAYER": "DeMarre Carroll",
+    "TWITTER_FAVORITE_COUNT": 29.5,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 152
+    },
+    {
+    "PLAYER": "Al-Farouq Aminu",
+    "TWITTER_FAVORITE_COUNT": 33,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 153
+    },
+    {
+    "PLAYER": "Nerlens Noel",
+    "TWITTER_FAVORITE_COUNT": 105,
+    "TWITTER_RETWEET_COUNT": 64,
+    "index": 154
+    },
+    {
+    "PLAYER": "Marreese Speights",
+    "TWITTER_FAVORITE_COUNT": 80,
+    "TWITTER_RETWEET_COUNT": 12,
+    "index": 155
+    },
+    {
+    "PLAYER": "J.R. Smith",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 43,
+    "index": 156
+    },
+    {
+    "PLAYER": "Tyson Chandler",
+    "TWITTER_FAVORITE_COUNT": 29,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 157
+    },
+    {
+    "PLAYER": "Norman Powell",
+    "TWITTER_FAVORITE_COUNT": 49,
+    "TWITTER_RETWEET_COUNT": 18,
+    "index": 158
+    },
+    {
+    "PLAYER": "Troy Daniels",
+    "TWITTER_FAVORITE_COUNT": 30,
+    "TWITTER_RETWEET_COUNT": 10,
+    "index": 159
+    },
+    {
+    "PLAYER": "Joe Harris",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 0,
+    "index": 160
+    },
+    {
+    "PLAYER": "Willy Hernangomez",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 55.5,
+    "index": 161
+    },
+    {
+    "PLAYER": "Caris LeVert",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 28,
+    "index": 162
+    },
+    {
+    "PLAYER": "Willie Cauley-Stein",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 17,
+    "index": 163
+    },
+    {
+    "PLAYER": "Ben McLemore",
+    "TWITTER_FAVORITE_COUNT": 30,
+    "TWITTER_RETWEET_COUNT": 17,
+    "index": 164
+    },
+    {
+    "PLAYER": "Tristan Thompson",
+    "TWITTER_FAVORITE_COUNT": 368,
+    "TWITTER_RETWEET_COUNT": 211,
+    "index": 165
+    },
+    {
+    "PLAYER": "Vince Carter",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 166
+    },
+    {
+    "PLAYER": "Alex Len",
+    "TWITTER_FAVORITE_COUNT": 10.5,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 167
+    },
+    {
+    "PLAYER": "Langston Galloway",
+    "TWITTER_FAVORITE_COUNT": 14.5,
+    "TWITTER_RETWEET_COUNT": 2,
+    "index": 168
+    },
+    {
+    "PLAYER": "Shelvin Mack",
+    "TWITTER_FAVORITE_COUNT": 6,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 169
+    },
+    {
+    "PLAYER": "Sergio Rodriguez",
+    "TWITTER_FAVORITE_COUNT": 303,
+    "TWITTER_RETWEET_COUNT": 60,
+    "index": 170
+    },
+    {
+    "PLAYER": "Rajon Rondo",
+    "TWITTER_FAVORITE_COUNT": 185.5,
+    "TWITTER_RETWEET_COUNT": 74,
+    "index": 171
+    },
+    {
+    "PLAYER": "Garrett Temple",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 172
+    },
+    {
+    "PLAYER": "Matthew Dellavedova",
+    "TWITTER_FAVORITE_COUNT": 175,
+    "TWITTER_RETWEET_COUNT": 30,
+    "index": 173
+    },
+    {
+    "PLAYER": "Luol Deng",
+    "TWITTER_FAVORITE_COUNT": 22,
+    "TWITTER_RETWEET_COUNT": 13.5,
+    "index": 174
+    },
+    {
+    "PLAYER": "Andre Iguodala",
+    "TWITTER_FAVORITE_COUNT": 300.5,
+    "TWITTER_RETWEET_COUNT": 43,
+    "index": 175
+    },
+    {
+    "PLAYER": "Manu Ginobili",
+    "TWITTER_FAVORITE_COUNT": 299,
+    "TWITTER_RETWEET_COUNT": 66,
+    "index": 176
+    },
+    {
+    "PLAYER": "Ivica Zubac",
+    "TWITTER_FAVORITE_COUNT": 5,
+    "TWITTER_RETWEET_COUNT": 43,
+    "index": 177
+    },
+    {
+    "PLAYER": "Alan Williams",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 178
+    },
+    {
+    "PLAYER": "Spencer Dinwiddie",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 179
+    },
+    {
+    "PLAYER": "Archie Goodwin",
+    "TWITTER_FAVORITE_COUNT": 8,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 180
+    },
+    {
+    "PLAYER": "Danny Green",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 15,
+    "index": 181
+    },
+    {
+    "PLAYER": "David Lee",
+    "TWITTER_FAVORITE_COUNT": 56.5,
+    "TWITTER_RETWEET_COUNT": 35,
+    "index": 182
+    },
+    {
+    "PLAYER": "Thabo Sefolosha",
+    "TWITTER_FAVORITE_COUNT": 28.5,
+    "TWITTER_RETWEET_COUNT": 17.5,
+    "index": 183
+    },
+    {
+    "PLAYER": "Justin Anderson",
+    "TWITTER_FAVORITE_COUNT": 5,
+    "TWITTER_RETWEET_COUNT": 10,
+    "index": 184
+    },
+    {
+    "PLAYER": "Matt Barnes",
+    "TWITTER_FAVORITE_COUNT": 50,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 185
+    },
+    {
+    "PLAYER": "Joe Ingles",
+    "TWITTER_FAVORITE_COUNT": 86.5,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 186
+    },
+    {
+    "PLAYER": "Anthony Tolliver",
+    "TWITTER_FAVORITE_COUNT": 11,
+    "TWITTER_RETWEET_COUNT": 2,
+    "index": 187
+    },
+    {
+    "PLAYER": "Josh Huestis",
+    "TWITTER_FAVORITE_COUNT": 24.5,
+    "TWITTER_RETWEET_COUNT": 2.5,
+    "index": 188
+    },
+    {
+    "PLAYER": "Justin Hamilton",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 8.5,
+    "index": 189
+    },
+    {
+    "PLAYER": "T.J. McConnell",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 190
+    },
+    {
+    "PLAYER": "Ian Clark",
+    "TWITTER_FAVORITE_COUNT": 33.5,
+    "TWITTER_RETWEET_COUNT": 25,
+    "index": 191
+    },
+    {
+    "PLAYER": "Jared Dudley",
+    "TWITTER_FAVORITE_COUNT": 31,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 192
+    },
+    {
+    "PLAYER": "Patrick Patterson",
+    "TWITTER_FAVORITE_COUNT": 53.5,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 193
+    },
+    {
+    "PLAYER": "Bobby Portis",
+    "TWITTER_FAVORITE_COUNT": 37,
+    "TWITTER_RETWEET_COUNT": 73,
+    "index": 194
+    },
+    {
+    "PLAYER": "Lance Stephenson",
+    "TWITTER_FAVORITE_COUNT": 26,
+    "TWITTER_RETWEET_COUNT": 17,
+    "index": 195
+    },
+    {
+    "PLAYER": "Brandan Wright",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 196
+    },
+    {
+    "PLAYER": "Alec Burks",
+    "TWITTER_FAVORITE_COUNT": 10,
+    "TWITTER_RETWEET_COUNT": 15,
+    "index": 197
+    },
+    {
+    "PLAYER": "Raymond Felton",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 6.5,
+    "index": 198
+    },
+    {
+    "PLAYER": "Dwight Powell",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 10,
+    "index": 199
+    },
+    {
+    "PLAYER": "Jaylen Brown",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 100,
+    "index": 200
+    },
+    {
+    "PLAYER": "Michael Carter-Williams",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 201
+    },
+    {
+    "PLAYER": "Dante Cunningham",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 202
+    },
+    {
+    "PLAYER": "Kosta Koufos",
+    "TWITTER_FAVORITE_COUNT": 37,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 203
+    },
+    {
+    "PLAYER": "Andre Roberson",
+    "TWITTER_FAVORITE_COUNT": 10,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 204
+    },
+    {
+    "PLAYER": "Marcus Thornton",
+    "TWITTER_FAVORITE_COUNT": 14,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 205
+    },
+    {
+    "PLAYER": "Sam Dekker",
+    "TWITTER_FAVORITE_COUNT": 139,
+    "TWITTER_RETWEET_COUNT": 13,
+    "index": 206
+    },
+    {
+    "PLAYER": "Amir Johnson",
+    "TWITTER_FAVORITE_COUNT": 31.5,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 207
+    },
+    {
+    "PLAYER": "Kyle O'Quinn",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 208
+    },
+    {
+    "PLAYER": "Kelly Oubre",
+    "TWITTER_FAVORITE_COUNT": 64.5,
+    "TWITTER_RETWEET_COUNT": 114.5,
+    "index": 209
+    },
+    {
+    "PLAYER": "Dante Exum",
+    "TWITTER_FAVORITE_COUNT": 48.5,
+    "TWITTER_RETWEET_COUNT": 28,
+    "index": 210
+    },
+    {
+    "PLAYER": "Spencer Hawes",
+    "TWITTER_FAVORITE_COUNT": 12,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 211
+    },
+    {
+    "PLAYER": "Trey Lyles",
+    "TWITTER_FAVORITE_COUNT": 48,
+    "TWITTER_RETWEET_COUNT": 12,
+    "index": 212
+    },
+    {
+    "PLAYER": "Chandler Parsons",
+    "TWITTER_FAVORITE_COUNT": 59,
+    "TWITTER_RETWEET_COUNT": 16,
+    "index": 213
+    },
+    {
+    "PLAYER": "Jonathon Simmons",
+    "TWITTER_FAVORITE_COUNT": 58,
+    "TWITTER_RETWEET_COUNT": 40,
+    "index": 214
+    },
+    {
+    "PLAYER": "Troy Williams",
+    "TWITTER_FAVORITE_COUNT": 5,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 215
+    },
+    {
+    "PLAYER": "JaVale McGee",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 32,
+    "index": 216
+    },
+    {
+    "PLAYER": "Zaza Pachulia",
+    "TWITTER_FAVORITE_COUNT": 141.5,
+    "TWITTER_RETWEET_COUNT": 34,
+    "index": 217
+    },
+    {
+    "PLAYER": "Glenn Robinson",
+    "TWITTER_FAVORITE_COUNT": 79,
+    "TWITTER_RETWEET_COUNT": 26,
+    "index": 218
+    },
+    {
+    "PLAYER": "David Nwaba",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 219
+    },
+    {
+    "PLAYER": "Jerian Grant",
+    "TWITTER_FAVORITE_COUNT": 25,
+    "TWITTER_RETWEET_COUNT": 32.5,
+    "index": 220
+    },
+    {
+    "PLAYER": "Andrew Harrison",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 17,
+    "index": 221
+    },
+    {
+    "PLAYER": "Domantas Sabonis",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 82,
+    "index": 222
+    },
+    {
+    "PLAYER": "Quincy Acy",
+    "TWITTER_FAVORITE_COUNT": 4,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 223
+    },
+    {
+    "PLAYER": "Beno Udrih",
+    "TWITTER_FAVORITE_COUNT": 5,
+    "TWITTER_RETWEET_COUNT": 8.5,
+    "index": 224
+    },
+    {
+    "PLAYER": "Jason Smith",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 23,
+    "index": 225
+    },
+    {
+    "PLAYER": "Taurean Waller-Prince",
+    "TWITTER_FAVORITE_COUNT": 8.5,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 226
+    },
+    {
+    "PLAYER": "Ian Mahinmi",
+    "TWITTER_FAVORITE_COUNT": 10,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 227
+    },
+    {
+    "PLAYER": "Georgios Papagiannis",
+    "TWITTER_FAVORITE_COUNT": 7,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 228
+    },
+    {
+    "PLAYER": "Delon Wright",
+    "TWITTER_FAVORITE_COUNT": 11.5,
+    "TWITTER_RETWEET_COUNT": 14,
+    "index": 229
+    },
+    {
+    "PLAYER": "Jerami Grant",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 230
+    },
+    {
+    "PLAYER": "Anthony Morrow",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 231
+    },
+    {
+    "PLAYER": "Terry Rozier",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 232
+    },
+    {
+    "PLAYER": "Malcolm Delaney",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 233
+    },
+    {
+    "PLAYER": "Meyers Leonard",
+    "TWITTER_FAVORITE_COUNT": 149,
+    "TWITTER_RETWEET_COUNT": 31,
+    "index": 234
+    },
+    {
+    "PLAYER": "Derrick Jones",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 74,
+    "index": 235
+    },
+    {
+    "PLAYER": "Chasson Randle",
+    "TWITTER_FAVORITE_COUNT": 13.5,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 236
+    },
+    {
+    "PLAYER": "Omri Casspi",
+    "TWITTER_FAVORITE_COUNT": 24,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 237
+    },
+    {
+    "PLAYER": "Randy Foye",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 238
+    },
+    {
+    "PLAYER": "Cameron Payne",
+    "TWITTER_FAVORITE_COUNT": 38.5,
+    "TWITTER_RETWEET_COUNT": 21,
+    "index": 239
+    },
+    {
+    "PLAYER": "Luis Scola",
+    "TWITTER_FAVORITE_COUNT": 16,
+    "TWITTER_RETWEET_COUNT": 60,
+    "index": 240
+    },
+    {
+    "PLAYER": "Denzel Valentine",
+    "TWITTER_FAVORITE_COUNT": 23,
+    "TWITTER_RETWEET_COUNT": 24,
+    "index": 241
+    },
+    {
+    "PLAYER": "Anthony Bennett",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 10.5,
+    "index": 242
+    },
+    {
+    "PLAYER": "Aaron Brooks",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 243
+    },
+    {
+    "PLAYER": "Trey Burke",
+    "TWITTER_FAVORITE_COUNT": 41,
+    "TWITTER_RETWEET_COUNT": 14,
+    "index": 244
+    },
+    {
+    "PLAYER": "Joakim Noah",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 87,
+    "index": 245
+    },
+    {
+    "PLAYER": "Thomas Robinson",
+    "TWITTER_FAVORITE_COUNT": 15,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 246
+    },
+    {
+    "PLAYER": "Juan Hernangomez",
+    "TWITTER_FAVORITE_COUNT": 21,
+    "TWITTER_RETWEET_COUNT": 18,
+    "index": 247
+    },
+    {
+    "PLAYER": "Mario Hezonja",
+    "TWITTER_FAVORITE_COUNT": 272,
+    "TWITTER_RETWEET_COUNT": 207,
+    "index": 248
+    },
+    {
+    "PLAYER": "Tiago Splitter",
+    "TWITTER_FAVORITE_COUNT": 8,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 249
+    },
+    {
+    "PLAYER": "Kevin Seraphin",
+    "TWITTER_FAVORITE_COUNT": 4.5,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 250
+    },
+    {
+    "PLAYER": "Isaiah Canaan",
+    "TWITTER_FAVORITE_COUNT": 24.5,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 251
+    },
+    {
+    "PLAYER": "Boris Diaw",
+    "TWITTER_FAVORITE_COUNT": 136.5,
+    "TWITTER_RETWEET_COUNT": 13,
+    "index": 252
+    },
+    {
+    "PLAYER": "Kris Humphries",
+    "TWITTER_FAVORITE_COUNT": 67,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 253
+    },
+    {
+    "PLAYER": "David West",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 25,
+    "index": 254
+    },
+    {
+    "PLAYER": "Corey Brewer",
+    "TWITTER_FAVORITE_COUNT": 51.5,
+    "TWITTER_RETWEET_COUNT": 15.5,
+    "index": 255
+    },
+    {
+    "PLAYER": "Reggie Bullock",
+    "TWITTER_FAVORITE_COUNT": 20,
+    "TWITTER_RETWEET_COUNT": 13,
+    "index": 256
+    },
+    {
+    "PLAYER": "C.J. Watson",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 257
+    },
+    {
+    "PLAYER": "Reggie Williams",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 0,
+    "index": 258
+    },
+    {
+    "PLAYER": "Stanley Johnson",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 19,
+    "index": 259
+    },
+    {
+    "PLAYER": "Jordan McRae",
+    "TWITTER_FAVORITE_COUNT": 25.5,
+    "TWITTER_RETWEET_COUNT": 7.5,
+    "index": 260
+    },
+    {
+    "PLAYER": "Donatas Motiejunas",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 261
+    },
+    {
+    "PLAYER": "Jarrod Uthoff",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 0,
+    "index": 262
+    },
+    {
+    "PLAYER": "Noah Vonleh",
+    "TWITTER_FAVORITE_COUNT": 23.5,
+    "TWITTER_RETWEET_COUNT": 12,
+    "index": 263
+    },
+    {
+    "PLAYER": "Tyler Ennis",
+    "TWITTER_FAVORITE_COUNT": 11,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 264
+    },
+    {
+    "PLAYER": "K.J. McDaniels",
+    "TWITTER_FAVORITE_COUNT": 17,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 265
+    },
+    {
+    "PLAYER": "Brandon Rush",
+    "TWITTER_FAVORITE_COUNT": 14,
+    "TWITTER_RETWEET_COUNT": 1.5,
+    "index": 266
+    },
+    {
+    "PLAYER": "Shabazz Napier",
+    "TWITTER_FAVORITE_COUNT": 159,
+    "TWITTER_RETWEET_COUNT": 72,
+    "index": 267
+    },
+    {
+    "PLAYER": "Jason Terry",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 268
+    },
+    {
+    "PLAYER": "Justin Harper",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 269
+    },
+    {
+    "PLAYER": "Thon Maker",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 39.5,
+    "index": 270
+    },
+    {
+    "PLAYER": "Edy Tavares",
+    "TWITTER_FAVORITE_COUNT": 12.5,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 271
+    },
+    {
+    "PLAYER": "Anthony Brown",
+    "TWITTER_FAVORITE_COUNT": 3,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 272
+    },
+    {
+    "PLAYER": "Jarell Martin",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 273
+    },
+    {
+    "PLAYER": "Malik Beasley",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 14,
+    "index": 274
+    },
+    {
+    "PLAYER": "Kris Dunn",
+    "TWITTER_FAVORITE_COUNT": 165,
+    "TWITTER_RETWEET_COUNT": 47,
+    "index": 275
+    },
+    {
+    "PLAYER": "Jonas Jerebko",
+    "TWITTER_FAVORITE_COUNT": 7,
+    "TWITTER_RETWEET_COUNT": 17,
+    "index": 276
+    },
+    {
+    "PLAYER": "Tyus Jones",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 14,
+    "index": 277
+    },
+    {
+    "PLAYER": "Adreian Payne",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 13,
+    "index": 278
+    },
+    {
+    "PLAYER": "Rashad Vaughn",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 279
+    },
+    {
+    "PLAYER": "Tyler Zeller",
+    "TWITTER_FAVORITE_COUNT": 15,
+    "TWITTER_RETWEET_COUNT": 14,
+    "index": 280
+    },
+    {
+    "PLAYER": "Kyle Anderson",
+    "TWITTER_FAVORITE_COUNT": 22,
+    "TWITTER_RETWEET_COUNT": 11.5,
+    "index": 281
+    },
+    {
+    "PLAYER": "Jared Sullinger",
+    "TWITTER_FAVORITE_COUNT": 11,
+    "TWITTER_RETWEET_COUNT": 2,
+    "index": 283
+    },
+    {
+    "PLAYER": "Gary Payton",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 18,
+    "index": 284
+    },
+    {
+    "PLAYER": "Wade Baldwin",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 36.5,
+    "index": 285
+    },
+    {
+    "PLAYER": "Henry Ellenson",
+    "TWITTER_FAVORITE_COUNT": 6.5,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 286
+    },
+    {
+    "PLAYER": "Paul Pierce",
+    "TWITTER_FAVORITE_COUNT": 346.5,
+    "TWITTER_RETWEET_COUNT": 142,
+    "index": 287
+    },
+    {
+    "PLAYER": "Briante Weber",
+    "TWITTER_FAVORITE_COUNT": 29.5,
+    "TWITTER_RETWEET_COUNT": 14,
+    "index": 288
+    },
+    {
+    "PLAYER": "Jarrett Jack",
+    "TWITTER_FAVORITE_COUNT": 11.5,
+    "TWITTER_RETWEET_COUNT": 7,
+    "index": 289
+    },
+    {
+    "PLAYER": "Sasha Vujacic",
+    "TWITTER_FAVORITE_COUNT": 3,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 290
+    },
+    {
+    "PLAYER": "Alan Anderson",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 291
+    },
+    {
+    "PLAYER": "Andrew Bogut",
+    "TWITTER_FAVORITE_COUNT": 57,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 292
+    },
+    {
+    "PLAYER": "Semaj Christon",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 293
+    },
+    {
+    "PLAYER": "Fred VanVleet",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 17.5,
+    "index": 294
+    },
+    {
+    "PLAYER": "Jeff Withey",
+    "TWITTER_FAVORITE_COUNT": 16,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 295
+    },
+    {
+    "PLAYER": "Marcus Georges-Hunt",
+    "TWITTER_FAVORITE_COUNT": 3,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 296
+    },
+    {
+    "PLAYER": "Kyle Singler",
+    "TWITTER_FAVORITE_COUNT": 9,
+    "TWITTER_RETWEET_COUNT": 6,
+    "index": 297
+    },
+    {
+    "PLAYER": "Tomas Satoransky",
+    "TWITTER_FAVORITE_COUNT": 7,
+    "TWITTER_RETWEET_COUNT": 8.5,
+    "index": 299
+    },
+    {
+    "PLAYER": "Andrew Nicholson",
+    "TWITTER_FAVORITE_COUNT": 5,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 300
+    },
+    {
+    "PLAYER": "Bobby Brown",
+    "TWITTER_FAVORITE_COUNT": 4,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 301
+    },
+    {
+    "PLAYER": "DeAndre Liggins",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 2,
+    "index": 302
+    },
+    {
+    "PLAYER": "Kevon Looney",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 18.5,
+    "index": 303
+    },
+    {
+    "PLAYER": "Miles Plumlee",
+    "TWITTER_FAVORITE_COUNT": 11,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 304
+    },
+    {
+    "PLAYER": "Mike Scott",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 305
+    },
+    {
+    "PLAYER": "Greivis Vasquez",
+    "TWITTER_FAVORITE_COUNT": 10,
+    "TWITTER_RETWEET_COUNT": 8.5,
+    "index": 306
+    },
+    {
+    "PLAYER": "James Young",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 12,
+    "index": 307
+    },
+    {
+    "PLAYER": "Rakeem Christmas",
+    "TWITTER_FAVORITE_COUNT": 13,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 308
+    },
+    {
+    "PLAYER": "Manny Harris",
+    "TWITTER_FAVORITE_COUNT": 2,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 309
+    },
+    {
+    "PLAYER": "Udonis Haslem",
+    "TWITTER_FAVORITE_COUNT": 28.5,
+    "TWITTER_RETWEET_COUNT": 18,
+    "index": 310
+    },
+    {
+    "PLAYER": "Tim Quarterman",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 311
+    },
+    {
+    "PLAYER": "John Jenkins",
+    "TWITTER_FAVORITE_COUNT": 3,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 312
+    },
+    {
+    "PLAYER": "Lamar Patterson",
+    "TWITTER_FAVORITE_COUNT": 4,
+    "TWITTER_RETWEET_COUNT": 4,
+    "index": 313
+    },
+    {
+    "PLAYER": "Cole Aldrich",
+    "TWITTER_FAVORITE_COUNT": 22,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 314
+    },
+    {
+    "PLAYER": "Nick Collison",
+    "TWITTER_FAVORITE_COUNT": 10,
+    "TWITTER_RETWEET_COUNT": 12,
+    "index": 315
+    },
+    {
+    "PLAYER": "Bruno Caboclo",
+    "TWITTER_FAVORITE_COUNT": 11,
+    "TWITTER_RETWEET_COUNT": 8,
+    "index": 316
+    },
+    {
+    "PLAYER": "Ryan Kelly",
+    "TWITTER_FAVORITE_COUNT": 17,
+    "TWITTER_RETWEET_COUNT": 10,
+    "index": 317
+    },
+    {
+    "PLAYER": "Jordan Mickey",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 318
+    },
+    {
+    "PLAYER": "Jarnell Stokes",
+    "TWITTER_FAVORITE_COUNT": 7,
+    "TWITTER_RETWEET_COUNT": 9,
+    "index": 319
+    },
+    {
+    "PLAYER": "Mike Miller",
+    "TWITTER_FAVORITE_COUNT": 50,
+    "TWITTER_RETWEET_COUNT": 14.5,
+    "index": 320
+    },
+    {
+    "PLAYER": "Anderson Varejao",
+    "TWITTER_FAVORITE_COUNT": 20,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 321
+    },
+    {
+    "PLAYER": "Mike Tobey",
+    "TWITTER_FAVORITE_COUNT": 1,
+    "TWITTER_RETWEET_COUNT": 0,
+    "index": 322
+    },
+    {
+    "PLAYER": "C.J. Wilcox",
+    "TWITTER_FAVORITE_COUNT": 3,
+    "TWITTER_RETWEET_COUNT": 3,
+    "index": 323
+    },
+    {
+    "PLAYER": "Kyle Wiltjer",
+    "TWITTER_FAVORITE_COUNT": 4,
+    "TWITTER_RETWEET_COUNT": 13.5,
+    "index": 324
+    },
+    {
+    "PLAYER": "Larry Sanders",
+    "TWITTER_FAVORITE_COUNT": 24.5,
+    "TWITTER_RETWEET_COUNT": 18,
+    "index": 326
+    },
+    {
+    "PLAYER": "Arinze Onuaku",
+    "TWITTER_FAVORITE_COUNT": 0,
+    "TWITTER_RETWEET_COUNT": 1,
+    "index": 327
+    },
+    {
+    "PLAYER": "Patricio Garino",
+    "TWITTER_FAVORITE_COUNT": 3,
+    "TWITTER_RETWEET_COUNT": 5,
+    "index": 328
+    }
+    ]
+    }

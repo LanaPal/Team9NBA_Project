@@ -1,0 +1,274 @@
+{
+    "arenas_list": [
+    {
+    "Arena": "American Airlines Arena",
+    "Capacity": 19600,
+    "Location": "Miami, Florida",
+    "TEAM": "Miami Heat",
+    "index": 0,
+    "lat": 25.7742658,
+    "lon": -80.1936589
+    },
+    {
+    "Arena": "American Airlines Center",
+    "Capacity": 19200,
+    "Location": "Dallas, Texas",
+    "TEAM": "Dallas Mavericks",
+    "index": 1,
+    "lat": 32.7762719,
+    "lon": -96.7968559
+    },
+    {
+    "Arena": "Amway Center",
+    "Capacity": 18846,
+    "Location": "Orlando, Florida",
+    "TEAM": "Orlando Magic",
+    "index": 2,
+    "lat": 28.5421109,
+    "lon": -81.3790304
+    },
+    {
+    "Arena": "AT&T Center",
+    "Capacity": 18418,
+    "Location": "San Antonio, Texas",
+    "TEAM": "San Antonio Spurs",
+    "index": 3,
+    "lat": 29.4246002,
+    "lon": -98.4951405
+    },
+    {
+    "Arena": "Bankers Life Fieldhouse",
+    "Capacity": 17923,
+    "Location": "Indianapolis, Indiana",
+    "TEAM": "Indiana Pacers",
+    "index": 4,
+    "lat": 39.7683331,
+    "lon": -86.1583502
+    },
+    {
+    "Arena": "Barclays Center",
+    "Capacity": 17732,
+    "Location": "Brooklyn, New York",
+    "TEAM": "Brooklyn Nets",
+    "index": 5,
+    "lat": 40.6501038,
+    "lon": -73.9495823
+    },
+    {
+    "Arena": "Capital One Arena",
+    "Capacity": 20356,
+    "Location": "Washington, D.C.",
+    "TEAM": "Washington Wizards",
+    "index": 6,
+    "lat": 38.8949855,
+    "lon": -77.0365708
+    },
+    {
+    "Arena": "Chase Center",
+    "Capacity": 18064,
+    "Location": "San Francisco, California",
+    "TEAM": "Golden State Warriors",
+    "index": 7,
+    "lat": 37.7790262,
+    "lon": -122.4199061
+    },
+    {
+    "Arena": "Chesapeake Energy Arena",
+    "Capacity": 18203,
+    "Location": "Oklahoma City, Oklahoma",
+    "TEAM": "Oklahoma City Thunder",
+    "index": 8,
+    "lat": 35.4729886,
+    "lon": -97.5170536
+    },
+    {
+    "Arena": "FedExForum",
+    "Capacity": 17794,
+    "Location": "Memphis, Tennessee",
+    "TEAM": "Memphis Grizzlies",
+    "index": 9,
+    "lat": 35.1490215,
+    "lon": -90.0516285
+    },
+    {
+    "Arena": "Fiserv Forum",
+    "Capacity": 17500,
+    "Location": "Milwaukee, Wisconsin",
+    "TEAM": "Milwaukee Bucks",
+    "index": 10,
+    "lat": 43.0349931,
+    "lon": -87.922497
+    },
+    {
+    "Arena": "Golden 1 Center",
+    "Capacity": 17583,
+    "Location": "Sacramento, California",
+    "TEAM": "Sacramento Kings",
+    "index": 11,
+    "lat": 38.5810606,
+    "lon": -121.4938951
+    },
+    {
+    "Arena": "Little Caesars Arena",
+    "Capacity": 20332,
+    "Location": "Detroit, Michigan",
+    "TEAM": "Detroit Pistons",
+    "index": 12,
+    "lat": 42.3315509,
+    "lon": -83.0466403
+    },
+    {
+    "Arena": "Madison Square Garden",
+    "Capacity": 19812,
+    "Location": "New York City, New York",
+    "TEAM": "New York Knicks",
+    "index": 13,
+    "lat": 40.7127281,
+    "lon": -74.0060152
+    },
+    {
+    "Arena": "Moda Center",
+    "Capacity": 19441,
+    "Location": "Portland, Oregon",
+    "TEAM": "Portland Trail Blazers",
+    "index": 14,
+    "lat": 45.5202471,
+    "lon": -122.6741949
+    },
+    {
+    "Arena": "Pepsi Center",
+    "Capacity": 19520,
+    "Location": "Denver, Colorado",
+    "TEAM": "Denver Nuggets",
+    "index": 15,
+    "lat": 39.7392364,
+    "lon": -104.9848623
+    },
+    {
+    "Arena": "Rocket Mortgage FieldHouse",
+    "Capacity": 19432,
+    "Location": "Cleveland, Ohio",
+    "TEAM": "Cleveland Cavaliers",
+    "index": 16,
+    "lat": 41.5051613,
+    "lon": -81.6934446
+    },
+    {
+    "Arena": "Scotiabank Arena",
+    "Capacity": 19800,
+    "Location": "Toronto, Ontario",
+    "TEAM": "Toronto Raptors",
+    "index": 17,
+    "lat": 43.6534817,
+    "lon": -79.3839347
+    },
+    {
+    "Arena": "Smoothie King Center",
+    "Capacity": 16867,
+    "Location": "New Orleans, Louisiana",
+    "TEAM": "New Orleans Pelicans",
+    "index": 18,
+    "lat": 29.9499323,
+    "lon": -90.0701156
+    },
+    {
+    "Arena": "Spectrum Center",
+    "Capacity": 19077,
+    "Location": "Charlotte, North Carolina",
+    "TEAM": "Charlotte Hornets",
+    "index": 19,
+    "lat": 35.2272,
+    "lon": -80.843083
+    },
+    {
+    "Arena": "Staples Center",
+    "Capacity": 19068,
+    "Location": "Los Angeles, California",
+    "TEAM": "Los Angeles Clippers",
+    "index": 20,
+    "lat": 34.0536909,
+    "lon": -118.242766
+    },
+    {
+    "Arena": "Staples Center",
+    "Capacity": 18997,
+    "Location": "Los Angeles, California",
+    "TEAM": "Los Angeles Lakers",
+    "index": 21,
+    "lat": 34.0536909,
+    "lon": -118.242766
+    },
+    {
+    "Arena": "State Farm Arena",
+    "Capacity": 18118,
+    "Location": "Atlanta, Georgia",
+    "TEAM": "Atlanta Hawks",
+    "index": 22,
+    "lat": 33.7490987,
+    "lon": -84.3901849
+    },
+    {
+    "Arena": "Talking Stick Resort Arena",
+    "Capacity": 18055,
+    "Location": "Phoenix, Arizona",
+    "TEAM": "Phoenix Suns",
+    "index": 23,
+    "lat": 33.4484367,
+    "lon": -112.0741417
+    },
+    {
+    "Arena": "Target Center",
+    "Capacity": 18978,
+    "Location": "Minneapolis, Minnesota",
+    "TEAM": "Minnesota Timberwolves",
+    "index": 24,
+    "lat": 44.9772995,
+    "lon": -93.2654692
+    },
+    {
+    "Arena": "TD Garden",
+    "Capacity": 18624,
+    "Location": "Boston, Massachusetts",
+    "TEAM": "Boston Celtics",
+    "index": 25,
+    "lat": 42.3602534,
+    "lon": -71.0582912
+    },
+    {
+    "Arena": "Toyota Center",
+    "Capacity": 18055,
+    "Location": "Houston, Texas",
+    "TEAM": "Houston Rockets",
+    "index": 26,
+    "lat": 29.7589382,
+    "lon": -95.3676974
+    },
+    {
+    "Arena": "United Center",
+    "Capacity": 20917,
+    "Location": "Chicago, Illinois",
+    "TEAM": "Chicago Bulls",
+    "index": 27,
+    "lat": 41.8755616,
+    "lon": -87.6244212
+    },
+    {
+    "Arena": "Vivint Smart Home Arena",
+    "Capacity": 18306,
+    "Location": "Salt Lake City, Utah",
+    "TEAM": "Utah Jazz",
+    "index": 28,
+    "lat": 40.7596198,
+    "lon": -111.8867975
+    },
+    {
+    "Arena": "Wells Fargo Center",
+    "Capacity": 20478,
+    "Location": "Philadelphia, Pennsylvania",
+    "TEAM": "Philadelphia 76ers",
+    "index": 29,
+    "lat": 39.9527237,
+    "lon": -75.1635262
+    }
+    ]
+    }
