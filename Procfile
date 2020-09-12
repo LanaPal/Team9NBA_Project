@@ -1,1 +1,1 @@
-web: gunicorn project9nbachal.wsgi
+web: gunicorn your_app_name.wsgi
