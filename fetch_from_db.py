@@ -5,7 +5,7 @@ from secret import credentials
 def get_db():
     # client = MongoClient('mongodb://localhost:27017')
     connection = f'mongodb+srv://team9_nba_db:team9_nba_db@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
-    # client = f'mongodb+srv://{credentials.user}:{credentials.password}@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
+    # connection = f'mongodb+srv://{credentials.user}:{credentials.password}@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
     client = MongoClient(connection)
     return client.nba_db
 

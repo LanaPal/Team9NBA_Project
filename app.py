@@ -2,8 +2,10 @@ from flask import Flask, jsonify
 from pymongo import MongoClient
 from fetch_from_db import fetch_arenas  , fetch_attendance, fetch_stats, fetch_twitter
 import json
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 # client = MongoClient('mongodb://localhost:27017')
 # connection = f'mongodb+srv://{credentials.user}:{credentials.password}@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
 connection = f'mongodb+srv://team9_nba_db:team9_nba_db@cluster0.zaqco.mongodb.net/<dbname>?retryWrites=true&w=majority'
