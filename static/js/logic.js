@@ -15,28 +15,34 @@ d3.json(url).then(function(data) {
 // const dataPromise = d3.json(url);
 // console.log("Data Promise: ", dataPromise);
 
-//Bubble Chart
-// let trace3 = {
-//   x: firstItem.otu_ids.slice(0,10),
-//   y: firstItem.sample_values.slice(0,10),
-//   text: firstItem.otu_labels.slice(0,10),
-//   mode: 'markers',
-//   marker: {
-//       size: firstItem.sample_values,
-//   },
+
+// Use D3 to read in samples.json
+// Create Charts with function
+function createCharts(id){
+  d3.json("/tweets").then((data) => {
+      //filter data for first 10 items
+      //Bubble Chart
+      let trace = {
+          x: firstItem.TWITTER_FAVORITE_COUNT.slice(0,10),
+          y: firstItem.TWITTER_RETWEET_COUNT.slice(0,10),
+          text: firstItem.PLAYER.slice(0,10),
+          mode: 'markers',
+          marker: {
+              size: firstItem.TWITTER_RETWEET_COUNT,
+          },
+          
+      };
+      let dataPlot = [trace];
+
+      let layout = {
+          title: "Twitter Favorite Count vs Retweet Count",
+      };
+
   
-// };
-// let dataPlot3 = [trace3];
+      Plotly.newPlot("bubble", dataPlot, layout);
 
-// let layout3 = {
-//   title: "Count of Bacteria by Family - Selected Subjects",
-// };
-
-
-// Plotly.newPlot("bubble", dataPlot3, layout3);
-
-// });
-// }
+  });
+}
 
 
 
