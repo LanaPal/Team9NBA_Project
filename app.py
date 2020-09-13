@@ -41,40 +41,41 @@ def welcome():
 @app.route("/stats")
 def get_stats():
     # s = json.dumps(fetch_stats())
-    stats = {"stats_list": fetch_stats(db)}
+    # stats = {"stats_list": fetch_stats(db)}
+    stats = fetch_stats(db)
     # resp = js
     # print(s)
-    print(stats)
-    return stats
+    # print(stats)
+    # return stats
     # return render_template("index.html", stats)
-    # return jsonify(stats)
+    return jsonify(stats)
 
 
 @app.route("/arenas")
 def get_arenas():
-    arenas = {"arenas_list": fetch_arenas(db)}
+    arenas = fetch_arenas(db)
     # return jsonify(arenas)
-    return arenas
+    # return arenas
     # return render_template("index.html", arenas)
-    # return jsonify(arenas)
+    return jsonify(arenas)
 
 @app.route("/tweets")
 def get_tweets():
-    tweets = {"tweets_list": fetch_twitter(db)}
+    tweets = fetch_twitter(db)
     # return jsonify(tweets)
-    return tweets
+    # return tweets
     # return render_template("index.html", tweets)
-    # return jsonify(tweets)
+    return jsonify(tweets)
 
 
 
 @app.route("/attendance")
 def get_attendance():
-    attendance = {"attendance_list": fetch_attendance(db)}
+    attendance = fetch_attendance(db)
     # return jsonify(attendance)
-    return attendance
+    # return attendance
     # return render_template("index.html", attendance)
-    # return jsonify(attendance)
+    return jsonify(attendance)
 
 
 
