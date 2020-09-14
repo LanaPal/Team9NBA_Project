@@ -1,0 +1,14 @@
+/* Navbar */
+.navbar {
+    max-height: 50px;
+  }
+  .navigation .navbar-brand {
+    color: yellow;
+    margin-left: 0px;
+    padding: inherit;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    font-family: Menlo, Arial, Helvetica, sans-serif;
+  }
+  
+ 
