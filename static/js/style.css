@@ -11,20 +11,4 @@
     font-family: Menlo, Arial, Helvetica, sans-serif;
   }
   
-  .table (
-    <!-- On rows -->
-    <tr class="bg-primary">...</tr>
-    <tr class="bg-success">...</tr>
-    <tr class="bg-warning">...</tr>
-    <tr class="bg-danger">...</tr>
-    <tr class="bg-info">...</tr>
-    
-    <!-- On cells (`td` or `th`) -->
-    <tr>
-      <td class="bg-primary">...</td>
-      <td class="bg-success">...</td>
-      <td class="bg-warning">...</td>
-      <td class="bg-danger">...</td>
-      <td class="bg-info">...</td>
-    </tr>
-  )
+ 
