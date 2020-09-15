@@ -1,10 +1,9 @@
-// console.log('here')
-// const url = "mongodb://localhost:27017/nba_db";
+// API variables
 const get_tweets = '/tweets'
 const get_stats = '/stats'
-// const url2 = 'http://127.0.0.1:5000/arenas'
 
-// Fetch the JSON data and console log it
+
+// Fetch the JSON data and create function for all players stats
 function createData(){
 d3.json(get_stats).then(function(stats) {
   let dataPlayers = []
@@ -43,7 +42,7 @@ d3.json(get_stats).then(function(stats) {
 let dataSet = createData()
 
 
-// Use D3 to read in samples.json
+
 // Create Charts with function
 function createCharts(){
   console.log('test')
@@ -65,9 +64,7 @@ function createCharts(){
           text: player_name.slice(0,25),
           mode: 'markers',
           type: 'scatter',
-          // // marker: {
-          // //     size: retweet,
-          // },
+          
           
       };
       let dataPlot = [trace];
@@ -94,7 +91,7 @@ function createCharts(){
   });
 
   d3.json(get_stats).then(function(player_stats_data) {
-    //Scatter Plot Chart
+    //Bar Chart
     let item = player_stats_data
     console.log(item)
     
@@ -116,7 +113,7 @@ function createCharts(){
     let dataPlot2 = [trace2];
 
     let layout2 = {
-        title: "Top 25 Player Points Average",
+        title: "Top 25 Players Points per Game Average",
         xaxis: {
           title:{
             text:'Player Name',
@@ -128,7 +125,7 @@ function createCharts(){
         
         yaxis: {
           title:{
-            text:'Points Average'
+            text:'Points per Game (Avg)'
           }
         }
     };
@@ -137,7 +134,7 @@ function createCharts(){
     Plotly.newPlot("bar2", dataPlot2, layout2);
 
 
-    
+    // Bubble Chart
     let salary = item.map(player => player.SALARY_MILLIONS)
     let game_wins = item.map(player => player.wins)
 
@@ -167,7 +164,7 @@ function createCharts(){
         
         yaxis: {
           title:{
-            text:'Points Average'
+            text:'Points per Game (Avg)'
           }
         }
          
