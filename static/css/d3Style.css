@@ -4,7 +4,7 @@
     text-anchor: middle;
   }
   
-  .active {
+  /* .active {
     font-weight: bold;
     fill: #000;
     transition: fill 0.3s ease-out;
@@ -21,7 +21,7 @@
   .inactive:hover {
     fill: #000;
     cursor: pointer;
-  }
+  } */
   
   /* font size dependent on radius, see app.js */
   .stateText {
@@ -35,10 +35,10 @@
     stroke: #e3e3e3;
   }
   
-  .chart {
+  /* .chart {
     display: block;
     margin: 0;
-  }
+  } */
   
   .d3-tip {
     padding: 6px;
@@ -67,5 +67,31 @@
     .aText {
       font-size: 13px;
     }
+  }
+  
+  .tooltip {
+    position: absolute;
+    width: 135px;
+    height: 60px;
+    padding: 2px;
+    padding-top: 8px;
+    font: 12px sans-serif;
+    color: white;
+    text-align: center;
+    background: #551aaf;
+    border: 0;
+    border-radius: 10px;
+  }
+  
+  .axisText {
+    font-family: sans-serif;
+    font-weight: bold;
+    fill: #551aaf;
+    text-anchor: middle;
+  }
+
+  .scatterplot {
+    width: 100%;
+    height: 100%;
   }
   

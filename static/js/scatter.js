@@ -117,6 +117,8 @@ d3.json(get_player_stats)
       .attr("transform", `translate(${width / 2}, ${height + margin.top + 30})`)
       .attr("class", "axisText")
       .text("Wins per Season");
+
+    svg.append("text")
   })
   .catch(function (error) {
     console.log(error);

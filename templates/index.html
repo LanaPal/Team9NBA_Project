@@ -3,8 +3,7 @@
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
+    <meta name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
@@ -15,11 +14,12 @@
       integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
       crossorigin="anonymous"
     />
-  
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 
+    <!-- Need these 2 lines -->
+    <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+    <!-- new -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/d3Style.css') }}">
     
-
     <link
       rel="stylesheet"
       type="text/css"
@@ -100,9 +100,6 @@
         <div id="bubble"></div>
       </div>
       <div class="col-md-6">
-        <!-- <div style="background-color: white">
-          <canvas id="myChart" width="50" height="50"></canvas>
-        </div> -->
         <div id="chart" class="scatterplot"></div>
         <!-- <div id="pie2"></div> -->
       </div>
@@ -124,7 +121,7 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS, charts js -->
-    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>

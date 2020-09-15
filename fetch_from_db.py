@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-from secret import credentials
+# from secret import credentials
 # make connection and return db
 
 def get_db():

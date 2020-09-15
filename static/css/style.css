@@ -18,4 +18,9 @@
     fill: #551aaf;
     text-anchor: middle;
   }
+
+  .scatterplot {
+    width: 100%;
+    height: 100%;
+  }
   
