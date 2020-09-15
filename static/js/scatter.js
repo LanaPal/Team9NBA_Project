@@ -3,7 +3,7 @@
 // const url = '/tweets'
 
 // chart building
-const svgWidth = 960;
+const svgWidth = 700;
 const svgHeight = 500;
 
 const margin = {
@@ -13,7 +13,7 @@ const margin = {
   left: 100,
 };
 
-const width = 960 - margin.left - margin.right;
+const width = 700 - margin.left - margin.right;
 const height = 500 - margin.top - margin.bottom;
 
 // Create an SVG wrapper, append an SVG group that will hold our chart, and shift the latter by left and top margins.
