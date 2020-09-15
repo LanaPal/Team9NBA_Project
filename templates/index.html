@@ -1,82 +1,90 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
+  
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
     
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.21/b-1.6.3/b-html5-1.6.3/datatables.min.css"/>
-    
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.21/b-1.6.3/b-html5-1.6.3/datatables.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 
     <title>Team 9 NBA Project</title>
   </head>
-  <body>
+  <body style="background-color: #cdcdcd">
+    <!-- /* <body> */ -->
     <h1>He Shoots, He Scores!</h1>
     <!-- mavigation bar -->
     <!-- <nav class="navbar navbar-dark bg-primary"> -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-        <a class="navbar-brand" href="#">The Social Influence of the NBA</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Tweets</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Attendance</a>
-            </li>
-          </ul>
-          <span class="navbar-text">
+      <img
+        src="../static/js/images/logo.png"
+        alt="..."
+        class="img-thumbnail"
+        height="75px"
+        width="75px"
+      />
+      <a class="navbar-brand" href="#">The Social Influence of the NBA</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarText"
+        aria-controls="navbarText"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav mr-auto">
+         
+        </ul>
+        <!-- <span class="navbar-text">
             Navbar text with an inline element
-          </span>
-        </div>
-      </nav>
-
-      
-
-      <div class="container-fluid">
-        ...
+          </span> -->
       </div>
+    </nav>
+    <hr />
+    <!-- <img width="1024" height="683" src="../static/js/images/banner.jpg" class="attachment-full size-full center" alt="" loading="lazy" srcset="/images/banner.jpg 1024w, ../static/js/images/banner.jpg 300w,  768w" sizes="(max-width: 1024px) 100vw, 1024px"> -->
+    <!-- <img src="../static/js/images/banner.jpg" alt="banner" class="center"> -->
+    <img
+      src="../static/js/images/banner.jpg"
+      alt="banner"
+      style="display: block; width: 50%; margin-left: auto; margin-right: auto"
+    />
 
-      <!-- DropDown -->
-<div class="btn-group">
-    <button type="button" class="btn btn-danger">Action</button>
-    <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <span class="sr-only">Toggle Dropdown</span>
-    </button>
-    <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Teams</a>
-      <select id="selDataset" onchange="optionChanged(this.value)"></select>
-      
-    </div>
-  </div>
-     
+    <div class="container-fluid">...</div>
+
   
-  <h2>Dashboard</h2>
-      <hr>
+    </div>
+  </div> -->
 
-      <!-- <div class="col-xl-4 col-md-6">
-        <div class="card bg-primary text-white mb-4">
-            <div class="card-body">Primary Card</div>
-            <div class="card-footer d-flex align-items-center justify-content-between">
-                <a class="small text-white stretched-link" href="#">View Details</a>
-                <div class="small text-white"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fas fa-angle-right"></i> --></div>
-            </div>
-          </div>
-      </div> -->
+    <hr />
+    <h1 style="text-align: center">The Social Influence of the NBA</h1>
 
-    
-    <h2>Bar Chart</h2>
-    <hr>
+    <hr />
+
+    <h2>Visualizations</h2>
+    <hr />
     <div class="row">
       <!-- chart templates -->
       <div class="col-md-6">
@@ -86,50 +94,63 @@
         <div id="bar2"></div>
       </div>
     </div>
-
+    <br/>
     <div class="row">
       <div class="col-md-6">
         <div id="bubble"></div>
       </div>
       <div class="col-md-6">
+        <!-- <div style="background-color: white">
+          <canvas id="myChart" width="50" height="50"></canvas>
+        </div> -->
+        <div id="chart" class="scatterplot"></div>
+        <!-- <div id="pie2"></div> -->
+      </div>
+    </div>
+    <br/>
+    <div class="row">
+      <div class="col-md-8">
+        <div style="background-color: white">
+          <canvas id="myChart" width="50" height="50"></canvas>
+        </div>
         <div id="pie2"></div>
       </div>
     </div>
 
-  
-<!-- Table -->
-<h2>Player Stats</h2>
-     
+    <!-- Table -->
+    <h2>Player Stats</h2>
 
     <table id="players" class="display" width="100%"></table>
 
- 
-      Dropdown
-      <div class="row">
-        <div class="col-md-2">
-          <div class="well">
-            <h5>Teams:</h5>
-            <select id="selDataset" onchange="optionChanged(this.value)"></select>
-          </div>
-
-
-      
-
     <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS, charts js -->
     <script src="https://d3js.org/d3.v6.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <!-- chart JS -->
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"
+    ></script>
+
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.min.js"
+      integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+      crossorigin="anonymous"
+    ></script>
     <script src="static/js/logic.js"></script>
-    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.21/b-1.6.3/b-html5-1.6.3/datatables.min.js"></script>
+    <script src="static/js/chart.js"></script>
+    <script type="text/javascript" src="../static/js/scatter.js"></script>
+
+
+    <script
+      type="text/javascript"
+      src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.21/b-1.6.3/b-html5-1.6.3/datatables.min.js"
+    ></script>
 
     <script>
-
-      $(document).ready(function() {
-      
-  } );
-     </script>
+      $(document).ready(function () {});
+    </script>
     <!-- <script src="Vis1/viz1.js"></script> -->
   </body>
 </html>
