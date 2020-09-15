@@ -67,7 +67,7 @@
     <!-- <img width="1024" height="683" src="../static/js/images/banner.jpg" class="attachment-full size-full center" alt="" loading="lazy" srcset="/images/banner.jpg 1024w, ../static/js/images/banner.jpg 300w,  768w" sizes="(max-width: 1024px) 100vw, 1024px"> -->
     <!-- <img src="../static/js/images/banner.jpg" alt="banner" class="center"> -->
     <img
-      src="../static/js/images/banner.jpg"
+      src="https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/L4FXSgyKTX0y7AIf-W_i0Q8lrHw=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YFH26NSNKVOHHCOY2T4YPIQVRA.png"
       alt="banner"
       style="display: block; width: 50%; margin-left: auto; margin-right: auto"
     />
@@ -139,9 +139,9 @@
       integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
       crossorigin="anonymous"
     ></script>
-    <script src="static/js/logic.js"></script>
-    <script src="static/js/chart.js"></script>
-    <script type="text/javascript" src="../static/js/scatter.js"></script>
+    <script src="{{url_for('static', filename='js/logic.js')}}"></script>
+    <script src="{{url_for('static', filename='js/chart.js')}}"></script>
+    <script type="text/javascript" src="{{url_for('static', filename='js/scatter.js')}}"></script>
 
 
     <script
