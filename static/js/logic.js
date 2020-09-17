@@ -64,6 +64,7 @@ function createCharts(){
           text: player_name.slice(0,25),
           mode: 'markers',
           type: 'scatter',
+          marker: {size:12}
           
           
       };
@@ -141,6 +142,7 @@ function createCharts(){
     let trace3 = {
         x: game_wins.slice(0,25),
         y: points.slice(0,25),
+        name: 'Size corresponds to Salary',
         text: player_name.slice(0,25),
         mode: 'markers',
         marker:{
@@ -153,6 +155,7 @@ function createCharts(){
 
     let layout3 = {
         title: "Top 25 Players Points vs Salary and Wins in 2016-17 Season",
+        showlegend: true,
         xaxis: {
           title:{
             text:'Wins',
