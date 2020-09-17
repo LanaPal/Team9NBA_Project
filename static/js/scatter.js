@@ -124,6 +124,7 @@ d3.json(get_player_stats)
       .attr("text-anchor", "middle")  
       .style("font-size", "18px") 
       .text("Salary vs Wins for all population of NBA players");
+
   })
   .catch(function (error) {
     console.log(error);

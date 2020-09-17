@@ -15,6 +15,15 @@
   text-anchor: middle;
 }
 
+.img-thumbnail {
+  padding: .25rem;
+  background-color: #fff;
+  border: 1px solid blue;
+  border-radius: 0rem;
+  max-width: 100%;
+  height: auto;
+}
+
 .aText {
     font-family: sans-serif;
     font-size: 16px;
